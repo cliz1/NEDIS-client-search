@@ -17,5 +17,5 @@ The app provides specific metrics such as how many times a client recieved a par
   ## Usage
 
 In its current state, the app is highly customized to the specific needs of the organization and therefore is not yet practically 
-to anyone outside the NEDIS organization. The next step of the project is to convert it to a web application, which is currently a WIP. 
+usable to anyone outside the NEDIS organization. The next step of the project is to convert it to a web application, which is currently a WIP. 
 After its conversion to web application it can potentially be expanded to fit the needs of any non profit organization seeking to use it. 
